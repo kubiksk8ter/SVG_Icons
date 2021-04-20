@@ -1,0 +1,11 @@
+<!-- svg icon 2 -->
+<svg version="1.1" id="Layer_1" 
+     xmlns="http://www.w3.org/2000/svg" 
+     x="0px" y="0px" width="26px" height="30px"     
+     xml:space="preserve">
+<path d="M 1.44 1.44 M 1.44 16.65 L 4.95 16.65 M 1.44 21.33 L 9.63 21.33 M 1.44 26.01 L 13.14 26.01 M 8.46 1.44 L 3.78 6.12 L 8.46 10.8 M 17.82 1.44 L 22.5 6.12 L 17.82 10.8 M 15.48 1.44 L 10.8 10.8 M 16.65 26.01 L 18.99 26.01 M 22.5 26.01 L 24.84 26.01 M 13.14 21.33 L 24.84 21.33 M 8.46 16.65 L 17.82 16.65 M 21.33 16.65 L 24.84 16.65"
+style='fill:none;
+stroke: #777777;
+stroke-width: 2px'
+stroke-linecap="round" />
+</svg>
