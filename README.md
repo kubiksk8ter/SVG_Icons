@@ -11,5 +11,7 @@ Some icons created by <a href='https://yqnn.github.io/svg-path-editor/' target="
 <strong>Facebook:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Facebook.svg">
   <!-- Codepen -->
 <strong>Codepen:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Codepen.svg">
-  <!-- Codepen -->
+  <!-- Mobile-phone -->
 <strong>Mobile-phone:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Mobilephone.svg">
+  <!-- Dropbox -->
+<strong>Mobile-phone:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Dropbox.svg">
