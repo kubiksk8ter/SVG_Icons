@@ -19,3 +19,5 @@ Some icons created by <a href='https://yqnn.github.io/svg-path-editor/' target="
 <strong>Icon 1:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Icon01.svg">
   <!-- SVG-icon02 -->
 <strong>Icon 2:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Icon02.svg">
+  <!-- SVG-icon03 -->
+<strong>Icon 3:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Icon03.svg">
