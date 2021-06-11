@@ -20,7 +20,7 @@ Some icons created by <a href='https://yqnn.github.io/svg-path-editor/' target="
   <!-- SVG-Bootstrap -->
 <strong>Bootstrap:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Bootstrap.svg">
   <!-- Github -->
-<strong>Github:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Gi.svg">
+<strong>Github:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Github.svg">
   <!-- SVG-icon01 -->
 <strong>Icon 1:&nbsp;&nbsp;&nbsp;&nbsp;<strong><img src="https://github.com/kubiksk8ter/SVG_Icons/blob/main/SVG-Icon01.svg">
   <!-- SVG-icon02 -->
